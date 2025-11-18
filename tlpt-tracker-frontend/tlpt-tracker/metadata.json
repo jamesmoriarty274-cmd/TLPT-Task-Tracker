@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TLPT Tracker",
+  "description": "A comprehensive web application to manage and track Threat-Led Penetration Testing (TLPT) activities, with role-based access for admins and users, task management, time tracking, and project dashboards.",
+  "requestFramePermissions": []
+}
